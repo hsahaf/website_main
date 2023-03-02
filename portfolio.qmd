@@ -1,0 +1,7 @@
+---
+title: "Portfolio"
+---
+
+Some of the data science projects that I have completed include:
+ 
+- [Toronto Homeless Shelter Data](https://github.com/hsahaf/TO_Shelter_Analysis), which is an R package about Homeless shelter data in the city of Toronto

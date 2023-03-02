@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Huda Sahaf"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - portfolio.qmd
+      - href: HS - Resume.pdf
+        text: CV
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+
+

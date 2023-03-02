@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Huda’s Website",
+    "section": "",
+    "text": "Welcome to my website! This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Some of the data science projects that I have completed include:\n\nToronto Homeless Shelter Data, which is an R package about Homeless shelter data in the city of Toronto"
+  }
+]
