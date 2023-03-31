@@ -1,7 +1,7 @@
 {
-  "hash": "29894c2ec3d5dfc18f85ddea4c0f5fe6",
+  "hash": "17f51ae26e61fe24a1162b90329d86d0",
   "result": {
-    "markdown": "---\ntitle: \"Huda's Website\"\n---\n\nWelcome to my website! \nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Huda's Website\"\n---\n\nEmerging cyber security analyst. Critical thinker. Adaptable trouble-shooter. \nA data-driven mitigator of security risk through policy assessments and best practices. Passionate about data security and preserving the user’s right to privacy\n\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
